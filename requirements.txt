@@ -1,0 +1,8 @@
+beautifulsoup4
+ipykernel
+jupyter
+pandas
+python-dotenv
+requests
+twilio
+tqdm
